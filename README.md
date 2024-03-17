@@ -13,7 +13,7 @@
     * PySpark
     * SDK Clouds
 
-* Cloud (Em ordem de importância)
+* Cloud (Em ordem de market share)
     * AWS
         * S3
         * Redshift
@@ -33,6 +33,7 @@
 * DevOps
     * Docker
     * Terraform
+    * Git
 
 
 
